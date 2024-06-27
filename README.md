@@ -4,7 +4,7 @@ Three
 Four
 Five
 Six
-7
-8
-9
-10
+Seven
+Eight
+Nine
+Ten
